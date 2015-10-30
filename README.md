@@ -1,4 +1,4 @@
-# PhotoTools
+# ImageTools
 ### 图片裁剪等杂项工具
 
 >主要放一些和图片处理相关的工具类
