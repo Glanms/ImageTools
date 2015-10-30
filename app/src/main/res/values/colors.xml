@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="grid_item_text">#100f12</color>
+    <color name="grid_item_normal">#cecece</color>
+    <color name="grid_item_click">#c30e59ed</color>
+</resources>
